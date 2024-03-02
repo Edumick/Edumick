@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Edumick
 - 👀 I’m interested in ...I'd like to learn
-- 🌱 I’m currently learning ...html,css,javascript
+- 🌱 I’m currently learning ...Html,Css,Javascript
 - 💞️ I’m looking to collaborate on ...javascript
-- 📫 How to reach me ...55 35 99117-9190
+- 📫 How to reach me ...eduardo.stos1991@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 

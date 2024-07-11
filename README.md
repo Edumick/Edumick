@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edumick
+- 👋 Hi, I’m @Edu_Santos
 - 👀 I’m interested in ...I'd like to learn
 - 🌱 I’m currently learning ...Html,Css,Javascript
 - 💞️ I’m looking to collaborate on ...javascript
